@@ -1,43 +1,54 @@
- #title {color: white;
+#title {color: white;
 background-color:"lightblue";
 margin: -4px;
 border: solid;
 }
 body {
-background-color:purple;
+  background-color:Blue;
 }
 
+
+
+
 .sub-section{
-  border-style: groove;
+        border-style: groove;
   border: 3px solid lightblue;
   border-radius: 20px;
   background-color:white;
   padding: 15px;
   width:fit-content;
-  margin-top: 20px;
+margin-top: 20px;
   margin-bottom: 15px;
   margin-right: 5px;
   margin-left: 5px;
 }
+
+
+
+
+ 
+ 
+ 
  
   #title {color: white;
   background-color: black;
   }
   div#section-1:hover {background-color:lightblue;h2{text-decoration: underline;}}
   div#section-2:hover {background-color:red;h2{text-decoration: underline;}}
-  div#section-3:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-3:hover {background-color:Gray;h2{text-decoration: underline;}}
   div#section-4:hover {background-color:red;h2{text-decoration: underline;}}
   div#section-5:hover {background-color:lightblue;h2{text-decoration: underline;}}
-  div#section-6:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-6:hover {background-color:Gray;h2{text-decoration: underline;}}
   div#section-7:hover {background-color:lightblue;h2{text-decoration: underline;}}
   div#section-8:hover {background-color:red;h2{text-decoration: underline;}}
-  div#section-9:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-9:hover {background-color:Gray;h2{text-decoration: underline;}}
   div#section-10:hover {background-color:red;h2{text-decoration: underline;}}
   div#section-11:hover {background-color:lightblue;h2{text-decoration: underline;}}
-  }
 
 
-footer{color:#FFFFFF;
+
+
+footer{color:#FFFFFFF;
 text-align:center;
 background-color:#0e3369;
 font-family: Arial
