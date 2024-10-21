@@ -1,6 +1,48 @@
-body{
-  padding: 25px;
+ #title {color: white;
+background-color:"lightblue";
+margin: -4px;
+border: solid;
 }
-.title {
-	color: #5C6AC4;
+body {
+background-color:purple;
 }
+
+.sub-section{
+  border-style: groove;
+  border: 3px solid lightblue;
+  border-radius: 20px;
+  background-color:white;
+  padding: 15px;
+  width:fit-content;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+ 
+  #title {color: white;
+  background-color: black;
+  }
+  div#section-1:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-2:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-3:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-4:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-5:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-6:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-7:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-8:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-9:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  div#section-10:hover {background-color:red;h2{text-decoration: underline;}}
+  div#section-11:hover {background-color:lightblue;h2{text-decoration: underline;}}
+  }
+
+
+footer{color:#FFFFFF;
+text-align:center;
+background-color:#0e3369;
+font-family: Arial
+;
+ 
+  h2 {color: green;}
+
+  
